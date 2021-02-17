@@ -1,0 +1,23 @@
+{
+    "name": "threejs-kaifazhinan",
+    "version": "1.0.0",
+    "description": "learning-threejs ================",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/josdirksen/learning-threejs.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/josdirksen/learning-threejs/issues"
+    },
+    "homepage": "https://github.com/josdirksen/learning-threejs#readme",
+    "dependencies": {
+        "@types/three": "^0.103.2",
+        "three": "^0.124.0"
+    }
+}
